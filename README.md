@@ -19,8 +19,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skilldistillery.com//wp-content/uploads/2016/03/Java_logo.png"alt="java" width="40" height="40">
-    <img src="https://azpanel.azilen.com/uploads/everything_must_know_spring_boot_application_scratch_12_8c4e62d4fe.jpg" alt="spring" width="40" height="40">
+    <img src="https://skilldistillery.com//wp-content/uploads/2016/03/Java_logo.png"alt="java" width="60" height="60">
+    <img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" alt="spring" width="60" height="60">
     <img src="" alt="hibernate" width="40" height="40">
     <img src="" alt="mysql" width="40" height="40">
     <img src="" alt="aws" width="40" height="40">
