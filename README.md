@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivam Sahu</h1>
-<p align="center">An Aspiring Java Backend developer. I am from Jhansi. I have completed a diploma in Electrical Engineering. After that I completed 1 year 'O'Level diploma(Software) Since I want to make a career in IT field so I joined masai school for learning some required web development skills.</p>
+<p align="center">Let's talk about me. I am from Jhansi. I have completed a diploma in Electrical Engineering. After that I completed 1 year 'O'Level diploma(Software) Since I want to make a career in IT field so I joined masai school for learning some required web development skills.</p>
 <img src="https://media2.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif?cid=ecf05e47fet7bgvbjps9v58d1867984qyw68jcbzvl4qj62c&rid=giphy.gif&ct=g" width="100%" height="300px" >
 
 <img align="right" src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif" />
-
-- 🔭 I’m currently working on **construct week java project**
-
-- 🌱 I’m currently learning **Spring Boot framework**
 
 - 👨‍💻 All of my projects are available at [https://shivam-1143.github.io/](https://shivam-1143.github.io/)
 
